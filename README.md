@@ -49,7 +49,7 @@ JetBrains WebStorm 软件 以及QQ浏览器
 
 五、结构设计
 
-1.png
+https://github.com/duchangchang/web/blob/main/1.png
 
 六、代码调试
 
